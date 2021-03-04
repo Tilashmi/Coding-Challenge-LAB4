@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="view1">NEWS</string>
+    <string name="view2">BLOGS</string>
+    <string name="view3">ESSAYS</string>
+    <string name="button_key">TextView</string>
+    <string name="heading1">NEWS</string>
+    <string name="heading2">BLOGS</string>
+    <string name="heading3">ESSAYS</string>
+    <string name="content1">News is information about current events. This may be provided through many different media: word
+        of mouth, printing, postal systems, broadcasting, electronic communication, or through the testimony of observers and
+        witnesses to events.
+        \n\n
+        Common topics for news reports include war, government, politics, education, health, the environment, economy,
+        business, fashion, and entertainment, as well as athletic events, quirky or unusual events. Government proclamations,
+        concerning royal ceremonies, laws, taxes, public health, and criminals, have been dubbed news since ancient times.
+        Technological and social developments, often driven by government communication and espionage networks, have increased
+        the speed with which news can spread, as well as influenced its content. The genre of news as we know it today is
+            closely associated with the newspaper.
+        \n\n
+        The English word "news" developed in the 14th century as a special use of the plural form of "new". In Middle English,
+        the equivalent word was newes, like the French nouvelles and the German Neues. Similar developments are found in
+        the Slavic languages – namely the Czech and Slovak noviny (from nový, "new"), the cognate Polish nowiny, the
+        Bulgarian novini, and Russian novosti – and in the Celtic languages: the Welsh newyddion (from newydd) and the
+            Cornish nowodhow.</string>
+    <string name="content2">A blog (a truncation of "weblog")[1] is a discussion or informational website published on the
+        World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed
+        in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009,
+        blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered
+        a single subject or topic. In the 2010s, "multi-author blogs" (MABs) emerged, featuring the writing of multiple
+        authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks,
+        advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter
+        and other microblogging systems helps integrate MABs and single-author blogs into the news media. Blog can also
+        be used as a verb, meaning to maintain or add content to a blog.
+        \n\n
+        The emergence and growth of blogs in the late 1990s coincided with the advent of web publishing tools that
+        facilitated the posting of content by non-technical users who did not have much experience with HTML or computer
+        programming. Previously, a knowledge of such technologies as HTML and File Transfer Protocol had been required to
+        publish content on the Web, and early Web users therefore tended to be hackers and computer enthusiasts. In the
+        2010s, the majority are interactive Web 2.0 websites, allowing visitors to leave online comments, and it is this
+        interactivity that distinguishes them from other static websites. In that sense, blogging can be seen as a form
+        of social networking service. Indeed, bloggers not only produce content to post on their blogs but also often build
+        social relations with their readers and other bloggers. However, there are high-readership blogs which do not
+            allow comments.</string>
+    <string name="content3">An essay is, generally, a piece of writing that gives the author own argument, but the definition
+        is vague, overlapping with those of a letter, a paper, an article, a pamphlet, and a short story. Essays have
+        traditionally been sub-classified as formal and informal. Formal essays are characterized by "serious purpose,dignity,
+        logical organization, length, whereas the informal essay is characterized by "the personal element
+        (self-revelation, individual tastes and experiences, confidential manner), humor, graceful style, rambling structure,
+        unconventionality or novelty of theme, etc.
+        \n\n
+        Essays are commonly used as literary criticism, political manifestos, learned arguments, observations of daily life,
+        recollections, and reflections of the author. Almost all modern essays are written in prose, but works in verse have
+        been dubbed essays (e.g., Alexander Pope An Essay on Criticism and An Essay on Man). While brevity usually defines
+        an essay, voluminous works like John Locke An Essay Concerning Human Understanding and Thomas Malthus An Essay on
+        the Principle of Population are counterexamples.
+        </string>
+</resources>
